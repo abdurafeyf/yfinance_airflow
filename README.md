@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The primary objective of this project is to provide daily financial news updates. We achieve this by leveraging the Free Trial API from Yahoo Finance and orchestrating our data pipelines with Airflow.
+The main idea of the project is to get daily news update related to Finance. We are using Free Trial API of Yahoo Finance and also using Airflow for Orchestrating our Data Pipelines.
 
 ## Instructions
 
